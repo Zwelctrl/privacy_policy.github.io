@@ -1,0 +1,42 @@
+<html>
+<title>Terms and Conditions</title>
+<body>
+Terms and Conditions 
+
+About the app
+
+Foodburma Application  is made with the aim of making it easier for not only Burmese people but also for foreigners to travel within Myanmar.
+
+Ownership
+
+Logo, Source code, Designs or the content images and text contained in the application are the properties of the Foodburma application.
+
+Privacy
+
+We deeply value the privacy of every application user. Users’ data such as Usernames,  Emails, Addresses, Pictures, and Locations will be automatically collected in our App. 
+
+Personal data collected from the users will not be sold or shared with any third-party organizations or individuals. It will only be used for users' benefits in using the application.	
+
+Users’ location data is used to calculate and display the distance between the users’ locations and the restaurants & hotels and to calculate and display the fastest route which the users can use to travel along to the restaurants and to indicate the locations of the users for the purpose of showing the restaurants & hotels closest to users’ locations.
+
+
+
+Users Right
+
+Foodburma App is free to be used by anyone. Users can research the best places to travel around them and users can also search for restaurants and hotels in any other city. We allow app users to post and share with other users about their wishes and opinions on food, restaurants, hotels, accommodation, and travel-related content. Users are allowed to freely provide opinions, recommendations, and ratings for the restaurant that they have eaten at and the hotels that they have accommodated.
+
+Application users are not allowed to behave as mentioned below.
+
+Posting content and images that are against the law
+Copying of the application's name, distribution of logo, contents; pictures, and reproduction of source code is not permitted.
+Insulting others’ business, social, and religions in direct or indirect ways is not allowed.
+Aggressive reviews, swearing, and harmful content on the dissatisfaction of the services or dislike of the foods provided by whether the hotels or restaurants are not allowed.
+Foodburma encourages users to provide positive suggestions, and uplifting recommendations for the restaurants and hotels to help them improve their business.
+The users of the application are not allowed to violate national laws. If any unwanted problem occurs between a user and other users, it is only related to the offender. Foodburma App has nothing to do with it and will not be responsible for any issues.
+
+
+ACKNOWLEDGEMENT
+
+All users of this application have read and learned about all the above topics. It will be accepted by the users that it will be used in accordance with the rules for their own goods as well as for the benefit of others.
+</body>
+</html>
